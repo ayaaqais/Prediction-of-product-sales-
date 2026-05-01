@@ -127,6 +127,6 @@ The tuned model shows **moderate overfitting** (Train R² = 0.89 vs Test R² = 0
 
 ### For Further Information
 
-For any additional questions, please contact **your.email@example.com**
+For any additional questions, please contact **ayaaqaiss@gmail.com**
 
 *Full technical details, data preparation steps, and all model code are available in the project notebook.*
