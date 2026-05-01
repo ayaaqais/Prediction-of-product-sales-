@@ -61,7 +61,7 @@ Built and compared three models using scikit-learn Pipelines:
 
 ### Insight 1: Product Price is the Strongest Predictor of Sales
 
-![MRP vs Sales](images/insight1_mrp_vs_sales.png)
+![MRP vs Sales](/insight1_mrp_vs_sales.png)
 
 > There is a clear positive relationship between a product's Maximum Retail Price (MRP) and its sales revenue (Pearson correlation ≈ 0.57). Higher-priced items consistently generate more revenue — making Item_MRP the most important numeric feature in the model. Retailers should ensure premium products receive appropriate shelf space and visibility.
 
