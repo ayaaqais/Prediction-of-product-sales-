@@ -69,7 +69,7 @@ Built and compared three models using scikit-learn Pipelines:
 
 ### Insight 2: Outlet Type is the #1 Driver of Sales Performance
 
-![Outlet Type vs Sales](images/insight2_outlet_type_vs_sales.png)
+![Outlet Type vs Sales](/insight2_outlet_type_vs_sales.png)
 
 > Supermarket Type 3 outlets dramatically outperform all other outlet types, with median sales nearly **3× higher** than Grocery Stores. The type of outlet a product is sold in matters more than almost any product-level attribute. This finding strongly supports investing in Supermarket Type 3 expansion to maximize total revenue.
 
